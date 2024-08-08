@@ -13,7 +13,7 @@ export const Bio = {
     linkedin: "https://www.linkedin.com/in/sravankumar13/",
     twitter: "https://x.com/sravansky07",
     insta: "https://www.instagram.com/__sravankumar__55/",
-    facebook: "https://www.facebook.com/rishav.chanda.165/",
+    facebook: "NA",
   };
   
   export const skills = [
@@ -150,7 +150,7 @@ export const Bio = {
       tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Tailwind CSS", "Socket.IO"],
       category: "web app",
       github: "https://github.com/Sravansky15/Chat-App",
-      webapp: "",
+      webapp: "https://chat-app-2-fo32.onrender.com",
     
     },
     {
@@ -160,7 +160,7 @@ export const Bio = {
       description:
       " Designed and developed a Spotify clone, a music streaming app that allows users to search for, play, and pause their favorite songs on demand. Implemented features such as playlist creation, song search, and playback controls. Created a responsive user interface using HTML, CSS, and JavaScript to ensure seamless functionality across all devices. Future plans include adding social features and a recommendation system.",
       image:
-        "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+        "https://github.com/user-attachments/assets/4ea027cf-1999-4a15-9766-9f9120b379b4",
       tags: [
         "HTML",
         "CSS",
@@ -169,7 +169,7 @@ export const Bio = {
       ],
       category: "web app",
       github: "https://github.com/Sravansky15/Spotify-clone",
-      webapp: "",
+      webapp: "https://letslisten.vercel.app/",
     },
     {
       id: 2,
@@ -178,11 +178,11 @@ export const Bio = {
       description:
             "Developed a weather app using ReactJS that provides real-time weather updates and forecasts for multiple locations. Implemented features like location search, current weather conditions, and a 7-day forecast. Used Axios to fetch data from external weather APIs and created a responsive design to ensure a seamless user experience across all devices.",
       image:
-        "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+        "https://github.com/user-attachments/assets/977fdce0-4335-4779-a15b-2521fcd686b7",
       tags: ["React JS", "CSS", "API"],
       category: "Web App",
       github: "https://github.com/Sravansky15/Weather-App",
-      webapp: "",
+      webapp: "https://weather-it-is.vercel.app/",
      
     },
     {
@@ -192,7 +192,7 @@ export const Bio = {
       description:
       "Developed a banking system using Java for managing deposits, withdrawals, and balance checks. Utilized SQLite and MySQL for secure database management. Designed a user-friendly interface and implemented robust error handling to ensure reliability and ease of use.",
       image:
-        "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5lKTKXvq-pdOu40jH9Y1BB5M_-b-FhPBhNXohOERaZp6c2-qRhypuv2sw3wmThpW3rNY&usqp=CAU",
       tags: ["Java", "MySQL", "SQLite", "Netbeans IDE"],
       category: "Web app",
       github: "https://github.com/Sravansky15/coding-raja-technologies",
@@ -206,11 +206,11 @@ export const Bio = {
       description:
       " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
       image:
-        "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-      tags: ["React Js", "Firebase", "Firestore", "Node JS"],
+        "https://github.com/user-attachments/assets/f6cf58d2-d084-438e-a16e-9062cb166fd6",
+      tags: ["React Js", "HTML", "CSS", "Node JS"],
       category: "web app",
       github: "https://github.com/Sravansky15/Todo-List",
-      webapp: " ",
+      webapp: "https://mytodoap.vercel.app/",
     },
     {
       id: 5,
